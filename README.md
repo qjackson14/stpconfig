@@ -2,11 +2,8 @@
 
 </p>
 
-<h1></h1>
-<br />
 
-
-<h2>Video Demonstration</h2>
+<h1>Video Demonstration</h1>
 
 - ### [YouTube: Day 21 Lab Configuring STP](https://www.youtube.com/watch?v=obM2_dG0YwU&t=31s)
 
