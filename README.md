@@ -23,7 +23,7 @@
 
 
 <h2>Step-by-Step</h2>
-✅ <b></b>Step 1: Identify Current STP Topology</b>
+✅ <b>Step 1: Identify Current STP Topology</b>
 
 - Command:
 - show spanning-tree
@@ -74,7 +74,7 @@
 - 👉 That’s why:
 - Changing priority often does nothing unless everything else ties
 
--⚡ <b>Step 5: PortFast + BPDU Guard (EXAM FAVORITE)</b>
+- ⚡<b>Step 5: PortFast + BPDU Guard (EXAM FAVORITE)</b>
 - Enable PortFast:
 - spanning-tree portfast
 - Enable BPDU Guard:
