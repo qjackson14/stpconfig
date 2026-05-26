@@ -53,7 +53,7 @@
 - 👉 Result: Load balancing across links
 
 - 🎯 <b>Step 3: Change STP Cost (Influence Path Selection)</b>
- Command:
+- Command:
 - interface f0/2
 - spanning-tree vlan 1 cost 100
 - 🔑 Key Rule:
