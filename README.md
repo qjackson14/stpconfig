@@ -26,7 +26,7 @@
 ✅ <b>Step 1: Identify Current STP Topology</b>
 
 - Command:
-- show spanning-tree
+  show spanning-tree
 
 - What you’re looking for:
 - Root bridge (look for: “this bridge is the root”)
@@ -54,7 +54,7 @@
 
 - 🎯 <b>Step 3: Change STP Cost (Influence Path Selection)</b>
 - Command:
-- interface f0/2
+  interface f0/2
 - spanning-tree vlan 1 cost 100
 - 🔑 Key Rule:
 - Lower cost = preferred path
@@ -64,7 +64,7 @@
 
 - 🎯 <b>Step 4: Change Port Priority (Tie-breaker ONLY)</b>
 - Command:
-- spanning-tree vlan 1 port-priority 240
+  spanning-tree vlan 1 port-priority 240
 - ⚠️ Important:
 - Port priority is the LAST tie-breaker
 - Order of root port selection:
